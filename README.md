@@ -1,4 +1,4 @@
-# Exoplanet Multiclass Classification – Final Project
+# Exoplanet Multiclass Classification - Final Project
 
 ITCS 3156: Introduction to Machine Learning  
 Smit Patel
@@ -8,9 +8,9 @@ Smit Patel
 This project applies machine learning algorithms to classify Kepler Objects of Interest (KOIs) collected by NASA.  
 Each KOI is labeled as one of the following:
 
-- **CONFIRMED** – a validated exoplanet
-- **CANDIDATE** – a promising transit signal awaiting confirmation
-- **FALSE POSITIVE** – a signal caused by noise, instrument artifacts, or non-planet astrophysical sources
+- **CONFIRMED** - a validated exoplanet
+- **CANDIDATE** - a promising transit signal awaiting confirmation
+- **FALSE POSITIVE** - a signal caused by noise, instrument artifacts, or non-planet astrophysical sources
 
 The goal is to build a complete ML pipeline that explores the dataset, preprocesses it, trains multiple models, and evaluates performance.
 
@@ -20,7 +20,7 @@ The goal is to build a complete ML pipeline that explores the dataset, preproces
 
 The dataset used is the **NASA Kepler KOI cumulative table**, sourced from Kaggle.
 
-It contains ~49 columns and thousands of KOIs.
+It contains 49 columns and thousands of KOIs.
 
 ### **Selected Features**
 
